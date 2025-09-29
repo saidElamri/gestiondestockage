@@ -1,0 +1,10 @@
+stock = [ ["Laptop", 15, 1200.50],
+    ["Mouse", 50, 25.99],
+    ["Keyboard", 30, 45.00],
+    ["Monitor", 20, 220.75],
+    ["USB Cable", 100, 5.50],
+    ["Headphones", 25, 75.20],
+    ["Webcam", 10, 60.00],
+    ["External HDD", 12, 110.00],
+    ["Smartphone", 18, 800.99],
+    ["Charger", 40, 18.75]]  # each product = ["name", quantity, unit_price]
