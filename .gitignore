@@ -6,6 +6,7 @@ __pycache__/
 # Virtual environment
 venv/
 .env/
+myvenv/
 
 # IDE files
 .vscode/
@@ -14,3 +15,4 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
