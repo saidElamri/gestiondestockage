@@ -1,4 +1,8 @@
-stock = [ ["Laptop", 15, 1200.50],
+# stock.py
+
+# Global stock list
+stock = [
+    ["Laptop", 15, 1200.50],
     ["Mouse", 50, 25.99],
     ["Keyboard", 30, 45.00],
     ["Monitor", 20, 220.75],
